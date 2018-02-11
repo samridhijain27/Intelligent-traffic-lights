@@ -13,4 +13,4 @@ based on  microcontroller that controls the various
 operations, monitors the traffic volume and density flow via
  sensors , and changes the lighting transition slots
 accordingly. 
-![alt block_diagram](Intelligent-traffic-lights/Documentation/block_diagram.png "A Brief Block Diagram")
+![alt block_diagram](https://github.com/samridhijain27/Intelligent-traffic-lights/blob/master/Documentation/block_diagram.png "A Brief Block Diagram")
