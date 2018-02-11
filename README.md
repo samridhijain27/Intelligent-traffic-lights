@@ -13,3 +13,4 @@ based on  microcontroller that controls the various
 operations, monitors the traffic volume and density flow via
  sensors , and changes the lighting transition slots
 accordingly. 
+![alt text](IMG_20180211_065527 (1).jpg " A Breif Block Diagram")
